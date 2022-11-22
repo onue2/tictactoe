@@ -95,7 +95,7 @@ class GameAreaState extends State<GameArea> {
                       child: Container(
                         height: 95,
                         width: 95,
-                        color: Colors.black,
+                        color: Colors.white,
                       ),
                     ),
                     InkWell(
